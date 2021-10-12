@@ -1,4 +1,16 @@
 # Hci166-fall21
-STUDENT NAMES 
-Fariha Faisal Sno 10727
-Alina Fahim Sno   10611
+
+ 1. FARIHA FAISAL:
+   My name is Fariha Faisal.
+   I study in Paf-kiet university.
+   I am a Computer Science student.
+   This is my 5th semister.
+
+
+
+2. ALINA FAHIM IBRAHIM:
+   My name is Alina Fahim Ibrahim .
+   I study in PAF-KIET.
+   I am a CS student.
+   My Cgpa is 3.45.
+   And this is my 5th semister.
