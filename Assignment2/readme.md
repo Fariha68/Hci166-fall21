@@ -24,4 +24,5 @@ TOPIC: HISTORY OF HCI(HUMAN COMPUTER INTERACTION)
     The source of information of this presentation comes from wikipedia and google.
     
     SOURCE OF IMAGES:
-    The source of these images that are used
+    The source of these images that are used in presentation are comes from google and interaction.design.org
+
