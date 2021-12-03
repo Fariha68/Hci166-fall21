@@ -14,6 +14,7 @@ The main and the biggest problem of a hybrid classroom in under priviledged scho
 ###IDEA 1: PROVIDE RECORDED LECTURES (original by [ALINA FAHIM IBRAHIM])
 Teacher should give recorded lectures to the student through whatsapp.
 |PROS|CONS|
+|-|-|
 |PROS|
 Teacher can record their lectures in school and provide students through whatsapp because nowadays whatsapp is very common app and it use less mbd data as compared to other apps.
 |CONS|
