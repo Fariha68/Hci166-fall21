@@ -30,65 +30,44 @@ Use chats for real-time collaborations
 Teacher should make google classroom for providing materials.
 |PROS|CONS|
 |-|-|
-|PROS|
-Teacher can make google classrooom(gcr) thorugh which all material can gather at one place.
-|CONS|
-For new user it may or maynot be difficult.
+|Teacher can make google classrooom(gcr) thorugh which all material can gather at one place.|For new user it may or maynot be difficult.|
 ---
 ###IDEA 4: WORKSHOP (original by [ALINA FAHIM IBRAHIM])
 Teacher should join or take participate in workshops so that he/sher will teach students online learning that how it be done
 |PROS|CONS|
 |-|-|
-|PROS|
-Workshop is a good thing for teahers to enchance their online skills
-|CONS|
-Teacher have to give sometime to online teaching workshops.
+|Workshop is a good thing for teahers to enchance their online skills|Teacher have to give sometime to online teaching workshops.|
 ---
 ###IDEA 5: FACEBOOK(original by [ALINA FAHIM IBRAHIM])
 Nowadays Facebook is a common platform for everyone. So teacher can make a group on facebook where he/she can upload documents , slides and recording of lectures.
 |PROS|CONS|
 |-|-|
-|PROS|
-Facebook is a very easy handling platform for every young generation.And it is user friendly platform.
-|CONS|
-I dont like there is no cons in using facebook app.
+|Facebook is a very easy handling platform for every young generation.And it is user friendly platform.|I dont like there is no cons in using facebook app.|
 
 ---
 ###IDEA 6: INTERACTION(original by [ALINA FAHIM IBRAHIM])
 Teacher and student interaction is mandatory for hybrid classroom.
 |PROS|CONS|
 |-|-|
-|PROS|
-Interaction is an essential part of classroom because when teachers and students interact nes ideas and plan will create.
-|CONS|
-Without interaction no one can understand anyone matter and problem.
+|Interaction is an essential part of classroom because when teachers and students interact nes ideas and plan will create.|Without interaction no one can understand anyone matter and problem.|
 ---
 ###IDEA 7: ZOOM MEETING  (original by [ALINA FAHIM IBRAHIM])
 Zooom meeting is also a great platform for students for learning.
 |PROS|CONS|
 |-|-|
-|PROS|
-Zoom will be great when if teacher teach students about zoom setting and usage of this app.
-|CONS|
-For new users, it create difficulty for new users to use zoom.
+|Zoom will be great when if teacher teach students about zoom setting and usage of this app.|For new users, it create difficulty for new users to use zoom.|
 ---
 ###IDEA 8: ANNOTATIONS (original by [FARIHA FAISAL])
 Annotations in zoom or any other platform will help teacher to teach and help students for learning. 
 |PROS|CONS|
 |-|-|
-|PROS|
-Annotation will help to understand the topics.
-|CONS|
-Sometimes annotaion is not easy to understand for new user .
+|Annotation will help to understand the topics.|Sometimes annotaion is not easy to understand for new user .|
 ---
 ###IDEA 9: CREATE SMALL GRROUPS (original by [FARIHA FAISAL])
 Create small groups on whatsapp and facebook can helo in interaction.
 |PROS|CONS|
 |-|-|
-|PROS|
-Small groups are easy to access.
-|CONS|
-Guidelines are necessary for any online platform.
+|Small groups are easy to access.|Guidelines are necessary for any online platform.|
 
 ---
 
@@ -96,10 +75,7 @@ Guidelines are necessary for any online platform.
 Share screen in zoom meeting can help to solve students problems.
 |PROS|CONS|
 |-|-|
-|PROS|
-It helps students in solving theri queries.
-|CONS|
-It is difficult for new user.
+|It helps students in solving theri queries.|It is difficult for new user.|
 
 ---
 ##Ideas by Group Leader
