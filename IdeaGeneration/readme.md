@@ -84,7 +84,8 @@ BRAIN STORMING PIC:BY( ALINA FAHIM)
 
 ---
 ##Ideas by Member 2
-![Add the image of individual brainstorming session to gitHub and then put its link here](Image link "Hover Text")
+![brain](https://user-images.githubusercontent.com/92322865/144656186-888137c6-775b-44a6-a1f1-3f5dfde94301.jpeg)
+
 
 ---
 ##Group Brainstorm Session 
@@ -93,6 +94,13 @@ BRAIN STORMING PIC:BY( ALINA FAHIM)
 
 
 ---
+20 IDEAS OF HYBRID CLASSROOM FOR UNDER PRIVILEDGED SCHOOLS BY( FARIHA FAISAL)
+![IDEA1](https://user-images.githubusercontent.com/92322865/144656273-3357dc85-990e-4a04-9828-a223bc3ca04d.jpeg)
+![IDEA2](https://user-images.githubusercontent.com/92322865/144656294-6f4d336f-547f-4b21-a1df-ce859fa84e11.jpeg)
+
+
+------
+
 20 IDEAS OF HYBRID CLASSROOM FOR UNDER PRIVILEDGED SCHOOLS BY( ALINA FAHIM IBRAHIM)
 ![20 IDEAS](https://user-images.githubusercontent.com/92322865/144630636-4d8393b1-36fe-442c-b034-3f5e6ee655f7.jpeg)
 ![20 IDEAS 1](https://user-images.githubusercontent.com/92322865/144630651-45ef5185-555b-46ef-b890-bf457296b642.jpeg)
