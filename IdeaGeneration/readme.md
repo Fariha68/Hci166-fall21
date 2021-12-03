@@ -1,9 +1,9 @@
 
 #Idea Generation: Hybrid Classroom System in Underprivileged Schools
 
-|Std ID|Student Name|
+|Std ID||Student Name|
 |10611||ALINA FAHIM IBRAHIM|
-|10727|FARIHA FAISAL|
+|10727||FARIHA FAISAL|
 
 ##Core Problem: Double Diamond Framework:
 
@@ -105,6 +105,8 @@ Share screen in zoom meeting can help to solve students problems.
 It helps students in solving theri queries.
 |CONS|
 It is difficult for new user.
+
+
 ##Ideas by Group Leader
 BRAIN STORMING PIC:BY( ALINA FAHIM)
 ![brain storming](https://user-images.githubusercontent.com/92322865/144630139-b57376c5-257b-4efd-ba6e-6f0833063323.jpeg)
