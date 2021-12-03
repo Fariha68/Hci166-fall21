@@ -48,7 +48,7 @@ Teacher should join or take participate in workshops so that he/sher will teach 
 Workshop is a good thing for teahers to enchance their online skills
 |CONS|
 Teacher have to give sometime to online teaching workshops.
-
+---
 ###IDEA 5: FACEBOOK(original by [ALINA FAHIM IBRAHIM])
 Nowadays Facebook is a common platform for everyone. So teacher can make a group on facebook where he/she can upload documents , slides and recording of lectures.
 |PROS|CONS|
@@ -58,7 +58,7 @@ Facebook is a very easy handling platform for every young generation.And it is u
 |CONS|
 I dont like there is no cons in using facebook app.
 
-
+---
 ###IDEA 6: INTERACTION(original by [ALINA FAHIM IBRAHIM])
 Teacher and student interaction is mandatory for hybrid classroom.
 |PROS|CONS|
@@ -67,7 +67,7 @@ Teacher and student interaction is mandatory for hybrid classroom.
 Interaction is an essential part of classroom because when teachers and students interact nes ideas and plan will create.
 |CONS|
 Without interaction no one can understand anyone matter and problem.
-
+---
 ###IDEA 7: ZOOM MEETING  (original by [ALINA FAHIM IBRAHIM])
 Zooom meeting is also a great platform for students for learning.
 |PROS|CONS|
@@ -76,7 +76,7 @@ Zooom meeting is also a great platform for students for learning.
 Zoom will be great when if teacher teach students about zoom setting and usage of this app.
 |CONS|
 For new users, it create difficulty for new users to use zoom.
-
+---
 ###IDEA 8: ANNOTATIONS (original by [FARIHA FAISAL])
 Annotations in zoom or any other platform will help teacher to teach and help students for learning. 
 |PROS|CONS|
@@ -85,7 +85,7 @@ Annotations in zoom or any other platform will help teacher to teach and help st
 Annotation will help to understand the topics.
 |CONS|
 Sometimes annotaion is not easy to understand for new user .
-
+---
 ###IDEA 9: CREATE SMALL GRROUPS (original by [FARIHA FAISAL])
 Create small groups on whatsapp and facebook can helo in interaction.
 |PROS|CONS|
@@ -95,7 +95,7 @@ Small groups are easy to access.
 |CONS|
 Guidelines are necessary for any online platform.
 
-
+---
 
 ###IDEA 10: SHARE SCREEN (original by [FARIHA FAISAL])
 Share screen in zoom meeting can help to solve students problems.
@@ -106,22 +106,22 @@ It helps students in solving theri queries.
 |CONS|
 It is difficult for new user.
 
-
+---
 ##Ideas by Group Leader
 BRAIN STORMING PIC:BY( ALINA FAHIM)
 ![brain storming](https://user-images.githubusercontent.com/92322865/144630139-b57376c5-257b-4efd-ba6e-6f0833063323.jpeg)
 
-
+---
 ##Ideas by Member 2
 ![Add the image of individual brainstorming session to gitHub and then put its link here](Image link "Hover Text")
 
-
+---
 ##Group Brainstorm Session 
 ![brain storming](https://user-images.githubusercontent.com/92322865/144630139-b57376c5-257b-4efd-ba6e-6f0833063323.jpeg)
 
 
 
-
+---
 20 IDEAS OF HYBRID CLASSROOM FOR UNDER PRIVILEDGED SCHOOLS BY( ALINA FAHIM IBRAHIM)
 ![20 IDEAS](https://user-images.githubusercontent.com/92322865/144630636-4d8393b1-36fe-442c-b034-3f5e6ee655f7.jpeg)
 ![20 IDEAS 1](https://user-images.githubusercontent.com/92322865/144630651-45ef5185-555b-46ef-b890-bf457296b642.jpeg)
