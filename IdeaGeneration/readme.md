@@ -17,7 +17,8 @@ Teacher should give recorded lectures to the student through whatsapp.
 |PROS|CONS|
 |-|-|
 
-|Teacher can record their lectures in school and provide students through whatsapp because nowadays whatsapp is very common app and it use less mbd data as compared to other apps.|Teacher can face a little bit difficulty while recording lectures but afterwars teacher will easily record the lectures.|
+|Teacher can record their lectures in school and provide students through whatsapp because nowadays whatsapp is very common app and it use less mbd data as compared to other apps.|
+|Teacher can face a little bit difficulty while recording lectures but afterwars teacher will easily record the lectures.|
 
 ---
 ###IDEA 2: USE CHATS (original by [FARIHA FAISAL])
