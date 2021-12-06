@@ -8,29 +8,29 @@
 
 ##Core Problem: Double Diamond Framework:
 
-The main and the biggest problem of a hybrid classroom in under priviledged school is that they cant setup hybrid classroom because of less of facility available.Hybrid classroom needs some equipment like phone ,camera ,laptop ,pc or projector.The HCI (Human Computer Interaction) help teachers to learn new things and educate their students that how they will make hybrid environment for those students who cannot come to school due to illness or sickness.
+The main and the biggest problem of a hybrid classroom in under priviledged school is that they cant setup hybrid classroom because of less of facility available.Hybrid classroom needs some equipment like phone ,camera ,laptop ,pc or projector.And Internet Connectivity issue is also the main issue in under privi;ledged schools.The HCI (Human Computer Interaction) help teachers to learn new things and educate their students that how they will make hybrid environment for those students who cannot come to school due to illness or sickness.
 
 ##Final 10 Ideas Selected
 
-###IDEA 1: PROVIDE RECORDED LECTURES (original by [ALINA FAHIM IBRAHIM])
-Teacher should give recorded lectures to the student through whatsapp.
+###IDEA 1:DO VOLUNTEERING (original by [ALINA FAHIM IBRAHIM])
+School should take  help from some organizations like TCF to arrange volunteering progams for students.
 |PROS|CONS|
 |-|-|
-|Teacher can record their lectures in school and provide students through whatsapp because nowadays whatsapp is very common app and it use less mbd data as compared to other apps.|Teacher can face a little bit difficulty while recording lectures but afterwars teacher will easily record the lectures.|
+|Volunteering is such a great idea for students of underpriviledged school.Through volunteering students will learn new things in a creative way|School or Orgranization can face a little bit difficulty while arranging volunteers for underpriviledged schools but there are some people that do volunteering .|
 
 ---
-###IDEA 2: USE CHATS (original by [FARIHA FAISAL])
-Use chats for real-time collaborations
+###IDEA 2: MAKE CLEAR PLANS AND SHARE WITH STUDENTS (original by [FARIHA FAISAL])
+Teacher should share the daily study plan with students before the class start.
 |PROS|CONS|
 |-|-|
-|Teacher can use chat tool like whatsapp tools for teaching students.|Sometimes it is difficult for student to understand online learning.|
+|Teacher will tell students about the daily plan so that students will know that what they would study .It also create good understanding in understanding the lectures.|I dont think so that there is any disadvantage in this plan sharing activity.|
 
 ---
-###IDEA 3: GOOGLE CLASSROOM (original by [ALINA FAHIM IBRAHIM])
-Teacher should make google classroom for providing materials.
+###IDEA 3: DESIGN CLEAR AND EASILY UNDERSTANDABLE (original by [FARIHA FAISAL])
+Teacher should make lectures or slides easy and understandable so that students shouldnot face any difficulty while learning the lecture.
 |PROS|CONS|
 |-|-|
-|Teacher can make google classrooom(gcr) thorugh which all material can gather at one place.|For new user it may or maynot be difficult.|
+|It is quite good and great effort for making a simple and clear lecture for students|The working effort of teacher will increase because he/she has to make lectures simple but more detailed.|
 ---
 ###IDEA 4: WORKSHOP (original by [ALINA FAHIM IBRAHIM])
 Teacher should join or take participate in workshops so that he/sher will teach students online learning that how it be done
@@ -38,11 +38,11 @@ Teacher should join or take participate in workshops so that he/sher will teach 
 |-|-|
 |Workshop is a good thing for teahers to enchance their online skills|Teacher have to give sometime to online teaching workshops.|
 ---
-###IDEA 5: FACEBOOK(original by [ALINA FAHIM IBRAHIM])
-Nowadays Facebook is a common platform for everyone. So teacher can make a group on facebook where he/she can upload documents , slides and recording of lectures.
+###IDEA 5:USE ASYNCHRONOUS LEARNING TO MAXIMIZE SYNCHRONOUS LEARNING . (original by [ALINA FAHIM IBRAHIM])
+Time together in hybrid learning is precious, so students should be using asynchronous learning to absorb content and complete activities that will prepare them for a highly interactive synchronous class like a debate, presentation, or design sprint.Asynchronous learning means that bsorbing content,deep work and informative assignments. 
 |PROS|CONS|
 |-|-|
-|Facebook is a very easy handling platform for every young generation.And it is user friendly platform.|I dont like there is no cons in using facebook app.|
+|Spending time in hybrid class will encourage students to learn new things and new technology|I think using asynchronous learning is not a bad idea.|
 
 ---
 ###IDEA 6: INTERACTION(original by [ALINA FAHIM IBRAHIM])
@@ -51,31 +51,30 @@ Teacher and student interaction is mandatory for hybrid classroom.
 |-|-|
 |Interaction is an essential part of classroom because when teachers and students interact nes ideas and plan will create.|Without interaction no one can understand anyone matter and problem.|
 ---
-###IDEA 7: ZOOM MEETING  (original by [ALINA FAHIM IBRAHIM])
-Zooom meeting is also a great platform for students for learning.
+###IDEA 7:LEARN HOW TO HANDLE PROJECT AND SHARE YOUR SCCREEN. (original by [ALINA FAHIM IBRAHIM])
+Teachers identified two core skills for using your device(s) well: learn how to handle  project of remote students on a screen in the classroom and learn how to share your screen with both remote and in-person learners. If you are fortunate enough to have multiple devices in your classroom, dedicate one to “broadcast” the class and the other for your own teaching purposes.
 |PROS|CONS|
 |-|-|
-|Zoom will be great when if teacher teach students about zoom setting and usage of this app.|For new users, it create difficulty for new users to use zoom.|
+|Sharing screen will be a great option when if teacher teach students about screen sharing .|For new users, it create difficulty for new users to use screen sharing.|
 ---
-###IDEA 8: ANNOTATIONS (original by [FARIHA FAISAL])
-Annotations in zoom or any other platform will help teacher to teach and help students for learning. 
+###IDEA 8: MAKE TIME TO FOCUS ON REMOTE STUDENTS.(original by [FARIHA FAISAL])
+Leaving some time at the end of class or just afterwards to focus entirely on the group of remote students can ensure their questions are answered and they feel cared for.
 |PROS|CONS|
 |-|-|
-|Annotation will help to understand the topics.|Sometimes annotaion is not easy to understand for new user .|
+|Giving time to remote students will give a better understanding.|Teachers have to give extra time to remote students from their working hours .|
 ---
 ###IDEA 9: CREATE SMALL GRROUPS (original by [FARIHA FAISAL])
-Create small groups on whatsapp and facebook can helo in interaction.
+Create small groups can help in interaction.Periodic check-ins focused on getting to know your remote students, offering personalized support, and getting their feedback will help keep them engaged.
 |PROS|CONS|
 |-|-|
 |Small groups are easy to access.|Guidelines are necessary for any online platform.|
 
 ---
-
-###IDEA 10: SHARE SCREEN (original by [FARIHA FAISAL])
-Share screen in zoom meeting can help to solve students problems.
+###IDEA 10: TEACHER SHOULD REMIND THEMSELVES THAT LEARNING IS THE GOAL AND THIS WILL LOOK DIFFERENT FROM YEARS PAST.IT'S OKAY TO BE SLOW DOWN. (original by [FARIHA FAISAL])
+Teacher shouls slow down his/her  teaching pace in online teaching because at initial point it is difficult for students to understand.
 |PROS|CONS|
 |-|-|
-|It helps students in solving theri queries.|It is difficult for new user.|
+|It helps students in solving their queries.|Initially teacher feel difficult to slow down but it is necessary for student understanding.|
 
 ---
 ##Ideas by Group Leader
