@@ -87,8 +87,10 @@ BRAIN STORMING PIC:BY( ALINA FAHIM)
 
 
 ---
-##Group Brainstorm Session 
-![brain storming](https://user-images.githubusercontent.com/92322865/144630139-b57376c5-257b-4efd-ba6e-6f0833063323.jpeg)
+##Group Brainstorm Session
+![WhatsApp Image 2021-12-06 at 8 40 46 PM](https://user-images.githubusercontent.com/92322865/144876897-c98ecd2d-2906-4c12-9d6d-fa7b4948a261.jpeg)
+
+
 
 
 
