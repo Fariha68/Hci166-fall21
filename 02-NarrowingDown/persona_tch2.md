@@ -6,6 +6,6 @@ PERSONA FOR TEACHER 2 (OLD)
 |Part-Time /Full-Time |part-Time|
 |Education| Masters|
 |Residence |Karachi|
-|Teaching at which school?| The City Standard School|
+|Teaching at which school?| The Citizen Foundation|
 |Status |Married|
 
