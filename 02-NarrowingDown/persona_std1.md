@@ -6,6 +6,7 @@ PERSONA OF STUDENT 1 (FAR FROM SCHOOL)
 |School Name|The Citizen Foundation|
 |Date Of Birth|11-Dec-2007|
 |Age|15|
+|Gender|Female|
 |Class level| Secondary|
 |Area|coastline of karachi|
 |Lived near school?
