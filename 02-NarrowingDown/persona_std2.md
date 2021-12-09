@@ -6,7 +6,7 @@ PERSONA OF STUDENT 2 (NEAR BY SCHOOL)
 |School Name|The Citizen Foundation|
 |Date Of Birth|24-Oct-2006|
 |Age|16|
-|Gender|Male|
+|Gender|Female|
 |Class level| Secondary|
 |Area|Saadi Town|
 |Lived near school?Or far from school?|near from school|
