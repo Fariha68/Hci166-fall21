@@ -1,7 +1,6 @@
 
-|:-----:|----------------|
-|Student Name|Sabahat Kashif|
 |-|-|
+|Student Name|Sabahat Kashif|
 |Father Name|Kashif Hussain|
 |School Name|The Citizen Foundation|
 |Date Of Birth|11-Dec-2007|
