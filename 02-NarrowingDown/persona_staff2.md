@@ -7,6 +7,6 @@ ADMIN MEMBER FOR SENIOR POSITION(MIDDLE AGE MAN)
 |Occupation |Senior Officer|
 |Position |Senior|
 |Residence |Gulshan-e- Iqbal (Karachi)|
-|School Name |The City Standard School|
+|School Name |The Citizen Foundation|
 |Email Id |zaqir345@gmail.com|
 
