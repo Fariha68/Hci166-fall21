@@ -9,7 +9,6 @@ PERSONA OF STUDENT 1 (FAR FROM SCHOOL)
 |Gender|Female|
 |Class level| Secondary|
 |Area|coastline of karachi|
-|Lived near school?
-Or far from school?|Far from school|
+|Lived near school?Or far from school?|Far from school|
 |Does he/she do outdoor activities?|Yes,but often|
 
